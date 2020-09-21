@@ -1,0 +1,5 @@
+3) 2. Le ficher table n'apparait pas parce qu'on ne l'a pas ajouté au git (git add);
+   4. Maintenant il apparait vu qu'on l'a add au git;
+   6. Il n'apparait plus car on l'a commit, donc au prochain git push il est envoyé au répo;
+   7. git log sert a afficher tous les commit effectués;
+   8. git log --start sert a afficher plus d'informations lors des commit effectués (lignes ajoutées, supprimées, etc..);
